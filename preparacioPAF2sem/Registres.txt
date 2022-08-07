@@ -1,0 +1,4 @@
+usuari1    1000
+usuari2    950
+usuari3    850
+usuari4    150
